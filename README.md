@@ -30,4 +30,3 @@
 
 ---
 © 2026 J. Shuto (@jshutoh-byte)  
-**"To be is TOBE."**（生きることは飛ぶこと）
